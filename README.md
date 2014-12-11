@@ -20,6 +20,7 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 ## ローカライズについて
 
 各地域へのローカライズについては[LOCALIZE.md](LOCALIZE.md)を参照するようにしてください。
+本システムは品川区用にカスタマイズを行っています
 
 
 
